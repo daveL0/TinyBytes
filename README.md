@@ -1,0 +1,2 @@
+# TinyBytes
+A file sharing network where digital items (videos, games, books pictures etc) can be bought and sold. Every user's ownership in items is backed by an entry in the blockchain. Files are delivered and distributed through a Bittorrent style network. When an item is bought, the item's key is added to the owner's record in the blockchain. The owner can now use the network to stream/download the file. When an item is sold, the network will generate a revocation entry and the owner will no longer be able to stream/download that file.
